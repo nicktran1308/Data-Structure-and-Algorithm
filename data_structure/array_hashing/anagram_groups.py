@@ -27,7 +27,7 @@ strs[i] is made up of lowercase English letters.
 """
 
 from typing import List
-
+import collections
 
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
