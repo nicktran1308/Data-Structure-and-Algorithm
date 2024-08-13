@@ -47,8 +47,8 @@ class Solution:
 
 
 """
-Time Complexity:
-Space Complexity:
+Time Complexity: O (n) n - numbers of elements in 'nums'
+Space Complexity: O (1)
 
 Steps:
     Input: nums = [1,2,2,3]
